@@ -3,7 +3,8 @@ URR 0.9.0
 
 ## World 1D
 
-  Traceback (most recent call last):
+~~~~
+Traceback (most recent call last):
   File "URR090.py", line 950235, in <module>
   File "URR090.py", line 937867, in place_menu
   File "URR090.py", line 103912, in world_browser
@@ -16,5 +17,6 @@ URR 0.9.0
   File "URR090.py", line 158757, in do_something
   File "URR090.py", line 710015, in find_a_schedule_target
   File "random.py", line 261, in choice
-  IndexError: Cannot choose from an empty sequence
-  [7108] Failed to execute script URR090
+IndexError: Cannot choose from an empty sequence
+[7108] Failed to execute script URR090
+~~~~
