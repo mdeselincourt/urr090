@@ -23,6 +23,7 @@ IndexError: Cannot choose from an empty sequence
 
 ### 0.9.0b
 
+~~~~
 Traceback (most recent call last):
   File "URR090b.py", line 950243, in <module>
   File "URR090b.py", line 937869, in place_menu
@@ -36,3 +37,4 @@ Traceback (most recent call last):
   File "URR090b.py", line 175737, in do_turn
   File "URR090b.py", line 164807, in do_something
 UnboundLocalError: local variable 'oldroad' referenced before assignment
+~~~~
